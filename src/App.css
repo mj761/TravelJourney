@@ -1,0 +1,89 @@
+/*Components*/
+.myNav{
+    font-size: 24px;
+    background-color: #F55A5A;
+    color: white;
+    justify-content: center;
+    display: flex;
+    width:98%;
+    height:auto;
+    padding: 15px;
+  }
+  .myNav h1{
+    font-size: 15.46px;
+    margin: 5px;
+  }
+  .myNav i {
+    margin: 2px;
+    width: 25px;
+    height: 25px;
+  }
+  .bold{
+    font-weight: 700;
+  }
+  .boldDate{
+    font-weight: 800;
+    font-size: 15.24px;
+  }
+  .card{
+  width:600px;
+  margin: 50px;
+  }
+
+
+
+  .locationStamp{
+    display: flex;
+    width:50px;
+  }
+  .card-enviornment {
+    display: flex;
+    justify-content: space-between;
+    width:240px;
+    
+   
+  }
+  
+  .card-enviornment p{
+    margin: 5px;
+  }
+  .card-enviornment i {
+    color:red;
+  } 
+  
+  .space .mapping{
+      font-size: 14px;
+     
+  }
+
+  .mapping{
+    text-decoration: underline;
+    color: #918E9B;
+
+  }
+  .locationStamp .loca{
+      margin-right: 20px;
+      font-size: 15px;
+  }
+  
+  .row{
+    padding: 20px;
+  }
+  .info{
+    font-size: 14px;
+  }
+ 
+  .card-enviornment{
+      float: right;
+  }
+  
+  .card-img{
+    height: 373px;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+    
+  }
+ 
