@@ -9,75 +9,61 @@
     height:auto;
     padding: 15px;
   }
-  .myNav h1{
+.myNav h1{
     font-size: 15.46px;
     margin: 5px;
   }
-  .myNav i {
+.myNav i {
     margin: 2px;
     width: 25px;
     height: 25px;
   }
-  .bold{
+.bold{
     font-weight: 700;
   }
-  .boldDate{
+
+.boldDate{
     font-weight: 800;
     font-size: 15.24px;
   }
-  .card{
+.card{
   width:600px;
   margin: 50px;
   }
-
-
-
-  .locationStamp{
-    display: flex;
-    width:50px;
-  }
-  .card-enviornment {
+ .card-enviornment {
     display: flex;
     justify-content: space-between;
     width:240px;
     
    
   }
-  
-  .card-enviornment p{
-    margin: 5px;
-  }
-  .card-enviornment i {
+ .card-enviornment i {
     color:red;
   } 
-  
-  .space .mapping{
+ .card-enviornment p{
+    margin: 5px;
+  }
+ 
+  .locationStamp{
+    display: flex;
+    width:50px;
+  }
+ .locationStamp .loca{
+      margin-right: 20px;
+      font-size: 15px;
+  }
+ .space .mapping{
       font-size: 14px;
      
   }
 
-  .mapping{
+ .mapping{
     text-decoration: underline;
     color: #918E9B;
 
   }
-  .locationStamp .loca{
-      margin-right: 20px;
-      font-size: 15px;
-  }
   
-  .row{
-    padding: 20px;
-  }
-  .info{
-    font-size: 14px;
-  }
- 
-  .card-enviornment{
-      float: right;
-  }
-  
-  .card-img{
+   .card-img{
     height: 373px;
     width: 300px;
     text-align: center;
@@ -86,4 +72,16 @@
     margin: 10px;
     
   }
+ .row{
+    padding: 20px;
+  }
+ .info{
+    font-size: 14px;
+  }
+ 
+ .card-enviornment{
+      float: right;
+  }
+  
+
  
